@@ -54,3 +54,23 @@
 - summary: |  
     Проверка регистрации
   status: pass      
+
+- summary: |
+    Проверка авторизации с аккаунта discord
+  status: pass   
+
+- summary: |
+    Проверка создания игры
+  status: pass   
+
+- summary: |
+    Проверка подключение к игре
+  status: pass
+
+- summary: |
+    Проверка завершение игр с исходом поражения
+  status: pass  
+
+- summary: |
+    Проверка завершения игры с исходом победы
+  status: pass  
