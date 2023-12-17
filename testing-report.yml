@@ -4,7 +4,7 @@
   status: pass   
 
 - summary: |    
-    Проверка работы чата на сайте
+    Проверка отправки сообщения в чат
   status: pass   
 
 - summary: |   
@@ -40,10 +40,6 @@
   status: pass  
 
 - summary: |   
-    Проверка работы сайта на разных языках
-  status: fail 
-  
-- summary: |   
     Проверка просмотра пользователей онлайн
   status: pass   
 
@@ -56,7 +52,7 @@
   status: pass      
 
 - summary: |
-    Проверка авторизации с аккаунта discord
+    Проверка авторизации с существующего аккаунта discord
   status: pass   
 
 - summary: |
